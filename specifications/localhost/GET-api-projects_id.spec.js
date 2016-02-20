@@ -16,7 +16,7 @@ var API = spec.define({
     "data": "any"
   }
 });
-
+/*
 describe("GET /api/projects/:id", function () {
   function create (callback) {
     var options = {
@@ -57,3 +57,4 @@ describe("GET /api/projects/:id", function () {
   });
 
 });
+*/
